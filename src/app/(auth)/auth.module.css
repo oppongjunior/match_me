@@ -1,0 +1,4 @@
+.container {
+    @apply flex items-center;
+    height: calc(100vh - 65px);
+}
